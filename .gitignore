@@ -1,5 +1,6 @@
 # Python
 __pycache__/
+*.py[cod]
 *.pyc
 
 # Jupyter
@@ -11,3 +12,7 @@ __pycache__/
 # IDE & OS
 .vscode/
 .DS_Store
+
+# Virtual environment (if you create one)
+venv/
+env/
