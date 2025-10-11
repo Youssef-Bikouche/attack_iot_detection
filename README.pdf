@@ -1,0 +1,12 @@
+# Network Attack Detection Project
+
+ML project to detect network attacks.
+
+## Team
+- Youssef Bikouche
+- Yassine Kerroumi
+
+## Setup
+```bash
+pip install -r requirements.txt
+jupyter notebook

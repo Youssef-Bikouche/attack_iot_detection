@@ -1,0 +1,5 @@
+# enforce LF for CSV files (good for cross-platform data files)
+*.csv text eol=lf
+
+# general rule: detect text files and normalize to LF in repo
+* text=auto
