@@ -1,0 +1,18 @@
+
+============================================================
+DATASET SUMMARY REPORT - STEP 1
+============================================================
+
+1. DATASET SIZE:
+   - Total samples: 227,191
+   - Total features: 95
+   - Benign samples: 136,800
+   - Attack samples: 90,391
+
+
+
+4. DATA TYPES:
+   - Numerical columns: 72
+   - Categorical columns: 23
+
+
